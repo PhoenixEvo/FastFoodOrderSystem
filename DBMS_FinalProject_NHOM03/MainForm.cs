@@ -16,5 +16,10 @@ namespace DBMS_FinalProject_NHOM03
         {
             InitializeComponent();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
