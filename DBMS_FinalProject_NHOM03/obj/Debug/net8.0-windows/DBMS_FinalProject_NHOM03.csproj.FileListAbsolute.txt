@@ -1,0 +1,17 @@
+C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.MainForm.resources
+C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.Properties.Resources.resources
+C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.sourcelink.json
+C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.exe
+C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.dll.config
+C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.deps.json
+C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.runtimeconfig.json
+C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.dll
+C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.pdb
+C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.dll
+C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\refint\DBMS_FinalProject_NHOM03.dll
+C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.pdb
+C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.genruntimeconfig.cache
+C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\ref\DBMS_FinalProject_NHOM03.dll

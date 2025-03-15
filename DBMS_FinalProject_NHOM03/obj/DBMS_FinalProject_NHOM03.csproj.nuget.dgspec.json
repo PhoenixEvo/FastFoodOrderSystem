@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\FUTURE\\DBMS\\DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj": {}
+    "C:\\Users\\HP\\OneDrive - hcmute.edu.vn\\DBMS\\FinalProject\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\FUTURE\\DBMS\\DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj": {
+    "C:\\Users\\HP\\OneDrive - hcmute.edu.vn\\DBMS\\FinalProject\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\FUTURE\\DBMS\\DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\OneDrive - hcmute.edu.vn\\DBMS\\FinalProject\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj",
         "projectName": "DBMS_FinalProject_NHOM03",
-        "projectPath": "C:\\Users\\Admin\\Documents\\FUTURE\\DBMS\\DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\FUTURE\\DBMS\\DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03\\obj\\",
+        "projectPath": "C:\\Users\\HP\\OneDrive - hcmute.edu.vn\\DBMS\\FinalProject\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\OneDrive - hcmute.edu.vn\\DBMS\\FinalProject\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
