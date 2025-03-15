@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
+using System.Security.Authentication.ExtendedProtection;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -14,9 +16,12 @@ namespace DBMS_FinalProject_NHOM03
         [STAThread]
         static void Main()
         {
+            SetProcessDPIAware();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainForm());
         }
+        [DllImport("user32.dll")]
+        private static extern bool SetProcessDPIAware();
     }
 }
