@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\FUTURE\\DBMS\\DBMS_FinalProject_NHOM03\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive - hcmute.edu.vn\\DBMS\\FinalProject\\FastFoodOrderSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|c:\\users\\hp\\onedrive - hcmute.edu.vn\\dbms\\finalproject\\fastfoodordersystem\\dbms_finalproject_nhom03\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|c:\\users\\hp\\onedrive - hcmute.edu.vn\\dbms\\finalproject\\fastfoodordersystem\\dbms_finalproject_nhom03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 206,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive - hcmute.edu.vn\\DBMS\\FinalProject\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\Program.cs",
+              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive - hcmute.edu.vn\\DBMS\\FinalProject\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\Program.cs",
+              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:27:41.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive - hcmute.edu.vn\\DBMS\\FinalProject\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\MainForm.cs",
+              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\MainForm.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive - hcmute.edu.vn\\DBMS\\FinalProject\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\MainForm.cs [Design]*",
+              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\MainForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T03:52:16.443Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
