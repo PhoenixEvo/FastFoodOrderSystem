@@ -1,28 +1,24 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Data.SqlClient;
+
 namespace DBMS_FinalProject_NHOM03.DB_layer
 {
     class DBMain
     {
-        string ConnStr = "Data Source=(local);Initial Catalog=Fast_Food_DB;Integrated Security=True";
-        SqlConnection conn = null;
-        SqlCommand comm = null;
-        SqlDataAdapter da = null;
+        private Database database;
+        private SqlCommand comm;
+        private SqlDataAdapter da;
+
         public DBMain()
         {
-            conn = new SqlConnection(ConnStr);
-            comm = conn.CreateCommand();
+            database = new Database();
+            comm = database.getConnection().CreateCommand();
         }
+
         public DataSet ExecuteQueryDataSet(string strSQL, CommandType ct)
         {
-            if (conn.State == ConnectionState.Open)
-                conn.Close();
-            conn.Open();
+            database.new_comm();
             comm.CommandText = strSQL;
             comm.CommandType = ct;
             da = new SqlDataAdapter(comm);
@@ -33,16 +29,14 @@ namespace DBMS_FinalProject_NHOM03.DB_layer
 
         public bool MyExecuteNonQuery(string strSQL, CommandType ct, ref string error)
         {
-            bool f = false;
-            if (conn.State == ConnectionState.Open)
-                conn.Close();
-            conn.Open();
+            bool success = false;
+            database.new_comm();
             comm.CommandText = strSQL;
             comm.CommandType = ct;
             try
             {
                 comm.ExecuteNonQuery();
-                f = true;
+                success = true;
             }
             catch (SqlException ex)
             {
@@ -50,17 +44,14 @@ namespace DBMS_FinalProject_NHOM03.DB_layer
             }
             finally
             {
-                conn.Close();
+                database.closeConnection();
             }
-            return f;
+            return success;
         }
+
         public SqlDataReader ExecuteReader(string strSQL, CommandType ct)
         {
-            if (conn.State == ConnectionState.Open)
-            {
-                conn.Close();
-            }
-            conn.Open();
+            database.new_comm();
             comm.CommandText = strSQL;
             comm.CommandType = ct;
             return comm.ExecuteReader(CommandBehavior.CloseConnection);
