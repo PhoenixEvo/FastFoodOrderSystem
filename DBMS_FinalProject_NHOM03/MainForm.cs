@@ -21,5 +21,17 @@ namespace DBMS_FinalProject_NHOM03
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            OrderManagementForm frmOrderManage = new OrderManagementForm();
+            frmOrderManage.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            TrackingOrderStatusForm frmTrackingOrder = new TrackingOrderStatusForm();
+            frmTrackingOrder.Show();
+        }
     }
 }
