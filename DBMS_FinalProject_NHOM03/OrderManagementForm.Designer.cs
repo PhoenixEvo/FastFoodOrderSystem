@@ -97,7 +97,7 @@ namespace DBMS_FinalProject_NHOM03
             // 
             label4.AutoSize = true;
             label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0);
-            label4.Location = new System.Drawing.Point(30, 477);
+            label4.Location = new System.Drawing.Point(30, 488);
             label4.Margin = new Padding(6, 0, 6, 0);
             label4.Name = "label4";
             label4.Size = new System.Drawing.Size(136, 29);
@@ -468,7 +468,7 @@ namespace DBMS_FinalProject_NHOM03
             toolStrip_Filter.Font = new System.Drawing.Font("Segoe UI", 10.125F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0);
             toolStrip_Filter.ImageScalingSize = new System.Drawing.Size(32, 32);
             toolStrip_Filter.Items.AddRange(new ToolStripItem[] { toolStripButton1 });
-            toolStrip_Filter.Location = new System.Drawing.Point(771, 77);
+            toolStrip_Filter.Location = new System.Drawing.Point(802, 75);
             toolStrip_Filter.Name = "toolStrip_Filter";
             toolStrip_Filter.Size = new System.Drawing.Size(128, 47);
             toolStrip_Filter.TabIndex = 23;
