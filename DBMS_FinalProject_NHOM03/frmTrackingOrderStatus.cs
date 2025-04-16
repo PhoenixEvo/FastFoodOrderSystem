@@ -166,5 +166,10 @@ namespace DBMS_FinalProject_NHOM03
                 this.Location = loc1;
             }
         }
+
+        private void closeButton_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

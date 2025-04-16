@@ -16,7 +16,7 @@ namespace DBMS_FinalProject_NHOM03
 
         public Database()
         {
-            connectionString = "Data Source=.;" +
+            connectionString = "Data Source=DINHKHOA;" +
                                "Initial Catalog=Fast_Food_DB;" +
                                "Integrated Security=True";
 

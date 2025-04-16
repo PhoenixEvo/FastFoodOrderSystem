@@ -97,10 +97,10 @@ namespace DBMS_FinalProject_NHOM03
             // 
             label4.AutoSize = true;
             label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0);
-            label4.Location = new System.Drawing.Point(30, 477);
-            label4.Margin = new Padding(6, 0, 6, 0);
+            label4.Location = new System.Drawing.Point(18, 298);
+            label4.Margin = new Padding(4, 0, 4, 0);
             label4.Name = "label4";
-            label4.Size = new System.Drawing.Size(136, 29);
+            label4.Size = new System.Drawing.Size(88, 18);
             label4.TabIndex = 17;
             label4.Text = "Order List:";
             label4.Click += label4_Click;
@@ -109,10 +109,10 @@ namespace DBMS_FinalProject_NHOM03
             // 
             btnSearch.BackColor = System.Drawing.SystemColors.ButtonFace;
             btnSearch.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold);
-            btnSearch.Location = new System.Drawing.Point(633, 71);
-            btnSearch.Margin = new Padding(6, 7, 6, 7);
+            btnSearch.Location = new System.Drawing.Point(390, 44);
+            btnSearch.Margin = new Padding(4);
             btnSearch.Name = "btnSearch";
-            btnSearch.Size = new System.Drawing.Size(162, 57);
+            btnSearch.Size = new System.Drawing.Size(100, 36);
             btnSearch.TabIndex = 15;
             btnSearch.Text = "Search";
             btnSearch.UseVisualStyleBackColor = false;
@@ -123,29 +123,29 @@ namespace DBMS_FinalProject_NHOM03
             label1.AutoSize = true;
             label1.BackColor = System.Drawing.SystemColors.ButtonFace;
             label1.Font = new System.Drawing.Font("Segoe UI Black", 12F, System.Drawing.FontStyle.Bold);
-            label1.Location = new System.Drawing.Point(53, 75);
-            label1.Margin = new Padding(6, 0, 6, 0);
+            label1.Location = new System.Drawing.Point(33, 47);
+            label1.Margin = new Padding(4, 0, 4, 0);
             label1.Name = "label1";
-            label1.Size = new System.Drawing.Size(134, 45);
+            label1.Size = new System.Drawing.Size(82, 28);
             label1.TabIndex = 14;
             label1.Text = "Search:";
             // 
             // txtSearch
             // 
-            txtSearch.Location = new System.Drawing.Point(199, 74);
-            txtSearch.Margin = new Padding(6, 7, 6, 7);
+            txtSearch.Location = new System.Drawing.Point(122, 46);
+            txtSearch.Margin = new Padding(4);
             txtSearch.Name = "txtSearch";
-            txtSearch.Size = new System.Drawing.Size(429, 39);
+            txtSearch.Size = new System.Drawing.Size(266, 27);
             txtSearch.TabIndex = 13;
             // 
             // btnRefresh
             // 
             btnRefresh.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             btnRefresh.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0);
-            btnRefresh.Location = new System.Drawing.Point(1576, 157);
-            btnRefresh.Margin = new Padding(6, 7, 6, 7);
+            btnRefresh.Location = new System.Drawing.Point(1145, 98);
+            btnRefresh.Margin = new Padding(4);
             btnRefresh.Name = "btnRefresh";
-            btnRefresh.Size = new System.Drawing.Size(162, 57);
+            btnRefresh.Size = new System.Drawing.Size(100, 36);
             btnRefresh.TabIndex = 12;
             btnRefresh.Text = "Refresh";
             btnRefresh.UseVisualStyleBackColor = true;
@@ -155,10 +155,10 @@ namespace DBMS_FinalProject_NHOM03
             // 
             label2.AutoSize = true;
             label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0);
-            label2.Location = new System.Drawing.Point(1572, 243);
-            label2.Margin = new Padding(6, 0, 6, 0);
+            label2.Location = new System.Drawing.Point(967, 152);
+            label2.Margin = new Padding(4, 0, 4, 0);
             label2.Name = "label2";
-            label2.Size = new System.Drawing.Size(186, 29);
+            label2.Size = new System.Drawing.Size(120, 18);
             label2.TabIndex = 16;
             label2.Text = "List OrderItem:";
             label2.Click += label2_Click;
@@ -191,14 +191,14 @@ namespace DBMS_FinalProject_NHOM03
             dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
             dataGridViewCellStyle3.WrapMode = DataGridViewTriState.False;
             dgvOrderItems.DefaultCellStyle = dataGridViewCellStyle3;
-            dgvOrderItems.Location = new System.Drawing.Point(1572, 279);
-            dgvOrderItems.Margin = new Padding(6, 7, 6, 7);
+            dgvOrderItems.Location = new System.Drawing.Point(967, 174);
+            dgvOrderItems.Margin = new Padding(4);
             dgvOrderItems.MultiSelect = false;
             dgvOrderItems.Name = "dgvOrderItems";
             dgvOrderItems.RowHeadersVisible = false;
             dgvOrderItems.RowHeadersWidth = 82;
             dgvOrderItems.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            dgvOrderItems.Size = new System.Drawing.Size(652, 943);
+            dgvOrderItems.Size = new System.Drawing.Size(401, 589);
             dgvOrderItems.TabIndex = 10;
             dgvOrderItems.CellContentClick += dgvOrderItems_CellContentClick;
             // 
@@ -226,21 +226,24 @@ namespace DBMS_FinalProject_NHOM03
             InformationGrBox.Controls.Add(label6);
             InformationGrBox.Controls.Add(label3);
             InformationGrBox.Font = new System.Drawing.Font("Segoe UI Black", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0);
-            InformationGrBox.Location = new System.Drawing.Point(22, 159);
+            InformationGrBox.Location = new System.Drawing.Point(14, 99);
+            InformationGrBox.Margin = new Padding(2);
             InformationGrBox.Name = "InformationGrBox";
-            InformationGrBox.Size = new System.Drawing.Size(1524, 321);
+            InformationGrBox.Padding = new Padding(2);
+            InformationGrBox.Size = new System.Drawing.Size(938, 201);
             InformationGrBox.TabIndex = 18;
             InformationGrBox.TabStop = false;
             InformationGrBox.Text = "Order Information";
+            InformationGrBox.Enter += InformationGrBox_Enter;
             // 
             // btnUpdate
             // 
             btnUpdate.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             btnUpdate.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0);
-            btnUpdate.Location = new System.Drawing.Point(1292, 227);
-            btnUpdate.Margin = new Padding(6, 7, 6, 7);
+            btnUpdate.Location = new System.Drawing.Point(795, 142);
+            btnUpdate.Margin = new Padding(4);
             btnUpdate.Name = "btnUpdate";
-            btnUpdate.Size = new System.Drawing.Size(195, 51);
+            btnUpdate.Size = new System.Drawing.Size(120, 32);
             btnUpdate.TabIndex = 21;
             btnUpdate.Text = "Update Status";
             btnUpdate.UseVisualStyleBackColor = true;
@@ -250,9 +253,10 @@ namespace DBMS_FinalProject_NHOM03
             // 
             Status_cbx.FormattingEnabled = true;
             Status_cbx.Items.AddRange(new object[] { "Pending", "Order Confirmed", "In Preparation", "Cancelled", "Out for Delivery" });
-            Status_cbx.Location = new System.Drawing.Point(964, 118);
+            Status_cbx.Location = new System.Drawing.Point(593, 74);
+            Status_cbx.Margin = new Padding(2);
             Status_cbx.Name = "Status_cbx";
-            Status_cbx.Size = new System.Drawing.Size(182, 40);
+            Status_cbx.Size = new System.Drawing.Size(114, 28);
             Status_cbx.TabIndex = 17;
             Status_cbx.SelectedIndexChanged += Status_cbx_SelectedIndexChanged;
             // 
@@ -260,19 +264,21 @@ namespace DBMS_FinalProject_NHOM03
             // 
             txtNotes.AllowDrop = true;
             txtNotes.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
-            txtNotes.Location = new System.Drawing.Point(1292, 80);
+            txtNotes.Location = new System.Drawing.Point(795, 50);
+            txtNotes.Margin = new Padding(2);
             txtNotes.Multiline = true;
             txtNotes.Name = "txtNotes";
             txtNotes.ReadOnly = true;
-            txtNotes.Size = new System.Drawing.Size(211, 138);
+            txtNotes.Size = new System.Drawing.Size(131, 88);
             txtNotes.TabIndex = 20;
             // 
             // label12
             // 
             label12.AutoSize = true;
-            label12.Location = new System.Drawing.Point(1292, 45);
+            label12.Location = new System.Drawing.Point(795, 28);
+            label12.Margin = new Padding(2, 0, 2, 0);
             label12.Name = "label12";
-            label12.Size = new System.Drawing.Size(91, 32);
+            label12.Size = new System.Drawing.Size(57, 20);
             label12.TabIndex = 19;
             label12.Text = "Notes:";
             // 
@@ -280,76 +286,85 @@ namespace DBMS_FinalProject_NHOM03
             // 
             dateOrderPicker.Enabled = false;
             dateOrderPicker.Format = DateTimePickerFormat.Short;
-            dateOrderPicker.Location = new System.Drawing.Point(1022, 64);
+            dateOrderPicker.Location = new System.Drawing.Point(629, 40);
+            dateOrderPicker.Margin = new Padding(2);
             dateOrderPicker.Name = "dateOrderPicker";
-            dateOrderPicker.Size = new System.Drawing.Size(228, 40);
+            dateOrderPicker.Size = new System.Drawing.Size(142, 28);
             dateOrderPicker.TabIndex = 16;
             // 
             // txtTotalAmount
             // 
-            txtTotalAmount.Location = new System.Drawing.Point(810, 225);
+            txtTotalAmount.Location = new System.Drawing.Point(498, 141);
+            txtTotalAmount.Margin = new Padding(2);
             txtTotalAmount.Name = "txtTotalAmount";
             txtTotalAmount.ReadOnly = true;
-            txtTotalAmount.Size = new System.Drawing.Size(415, 40);
+            txtTotalAmount.Size = new System.Drawing.Size(257, 28);
             txtTotalAmount.TabIndex = 15;
             // 
             // txtAddress
             // 
-            txtAddress.Location = new System.Drawing.Point(150, 107);
+            txtAddress.Location = new System.Drawing.Point(92, 67);
+            txtAddress.Margin = new Padding(2);
             txtAddress.Name = "txtAddress";
             txtAddress.ReadOnly = true;
-            txtAddress.Size = new System.Drawing.Size(701, 40);
+            txtAddress.Size = new System.Drawing.Size(433, 28);
             txtAddress.TabIndex = 12;
             txtAddress.TextChanged += textBox5_TextChanged;
             // 
             // txtPhoneNumber
             // 
-            txtPhoneNumber.Location = new System.Drawing.Point(227, 225);
+            txtPhoneNumber.Location = new System.Drawing.Point(140, 141);
+            txtPhoneNumber.Margin = new Padding(2);
             txtPhoneNumber.Name = "txtPhoneNumber";
             txtPhoneNumber.ReadOnly = true;
-            txtPhoneNumber.Size = new System.Drawing.Size(365, 40);
+            txtPhoneNumber.Size = new System.Drawing.Size(226, 28);
             txtPhoneNumber.TabIndex = 11;
             // 
             // txtCustomerName
             // 
-            txtCustomerName.Location = new System.Drawing.Point(227, 164);
+            txtCustomerName.Location = new System.Drawing.Point(140, 102);
+            txtCustomerName.Margin = new Padding(2);
             txtCustomerName.Name = "txtCustomerName";
             txtCustomerName.ReadOnly = true;
-            txtCustomerName.Size = new System.Drawing.Size(628, 40);
+            txtCustomerName.Size = new System.Drawing.Size(388, 28);
             txtCustomerName.TabIndex = 10;
             // 
             // txtOrderID
             // 
-            txtOrderID.Location = new System.Drawing.Point(154, 51);
+            txtOrderID.Location = new System.Drawing.Point(95, 32);
+            txtOrderID.Margin = new Padding(2);
             txtOrderID.Name = "txtOrderID";
             txtOrderID.ReadOnly = true;
-            txtOrderID.Size = new System.Drawing.Size(701, 40);
+            txtOrderID.Size = new System.Drawing.Size(433, 28);
             txtOrderID.TabIndex = 8;
             // 
             // PaymentMethod_cbx
             // 
             PaymentMethod_cbx.FormattingEnabled = true;
             PaymentMethod_cbx.Items.AddRange(new object[] { "Cash", "Credit Card", "Debit Card" });
-            PaymentMethod_cbx.Location = new System.Drawing.Point(1092, 167);
+            PaymentMethod_cbx.Location = new System.Drawing.Point(672, 104);
+            PaymentMethod_cbx.Margin = new Padding(2);
             PaymentMethod_cbx.Name = "PaymentMethod_cbx";
-            PaymentMethod_cbx.Size = new System.Drawing.Size(158, 40);
+            PaymentMethod_cbx.Size = new System.Drawing.Size(99, 28);
             PaymentMethod_cbx.TabIndex = 18;
             // 
             // label8
             // 
             label8.AutoSize = true;
-            label8.Location = new System.Drawing.Point(619, 230);
+            label8.Location = new System.Drawing.Point(381, 144);
+            label8.Margin = new Padding(2, 0, 2, 0);
             label8.Name = "label8";
-            label8.Size = new System.Drawing.Size(185, 32);
+            label8.Size = new System.Drawing.Size(116, 20);
             label8.TabIndex = 7;
             label8.Text = "Total Amount:";
             // 
             // label10
             // 
             label10.AutoSize = true;
-            label10.Location = new System.Drawing.Point(861, 172);
+            label10.Location = new System.Drawing.Point(530, 108);
+            label10.Margin = new Padding(2, 0, 2, 0);
             label10.Name = "label10";
-            label10.Size = new System.Drawing.Size(225, 32);
+            label10.Size = new System.Drawing.Size(140, 20);
             label10.TabIndex = 5;
             label10.Text = "Payment Method:";
             label10.Click += label10_Click;
@@ -357,9 +372,10 @@ namespace DBMS_FinalProject_NHOM03
             // label9
             // 
             label9.AutoSize = true;
-            label9.Location = new System.Drawing.Point(874, 121);
+            label9.Location = new System.Drawing.Point(538, 76);
+            label9.Margin = new Padding(2, 0, 2, 0);
             label9.Name = "label9";
-            label9.Size = new System.Drawing.Size(96, 32);
+            label9.Size = new System.Drawing.Size(59, 20);
             label9.TabIndex = 6;
             label9.Text = "Status:";
             // 
@@ -367,36 +383,40 @@ namespace DBMS_FinalProject_NHOM03
             // 
             OrderDate.AutoSize = true;
             OrderDate.Font = new System.Drawing.Font("Segoe UI Black", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0);
-            OrderDate.Location = new System.Drawing.Point(874, 67);
+            OrderDate.Location = new System.Drawing.Point(538, 42);
+            OrderDate.Margin = new Padding(2, 0, 2, 0);
             OrderDate.Name = "OrderDate";
-            OrderDate.Size = new System.Drawing.Size(142, 32);
+            OrderDate.Size = new System.Drawing.Size(90, 20);
             OrderDate.TabIndex = 1;
             OrderDate.Text = "OrderDate:";
             // 
             // label11
             // 
             label11.AutoSize = true;
-            label11.Location = new System.Drawing.Point(27, 107);
+            label11.Location = new System.Drawing.Point(17, 67);
+            label11.Margin = new Padding(2, 0, 2, 0);
             label11.Name = "label11";
-            label11.Size = new System.Drawing.Size(117, 32);
+            label11.Size = new System.Drawing.Size(74, 20);
             label11.TabIndex = 4;
             label11.Text = "Address:";
             // 
             // label7
             // 
             label7.AutoSize = true;
-            label7.Location = new System.Drawing.Point(27, 227);
+            label7.Location = new System.Drawing.Point(17, 142);
+            label7.Margin = new Padding(2, 0, 2, 0);
             label7.Name = "label7";
-            label7.Size = new System.Drawing.Size(191, 32);
+            label7.Size = new System.Drawing.Size(120, 20);
             label7.TabIndex = 3;
             label7.Text = "PhoneNumber:";
             // 
             // label6
             // 
             label6.AutoSize = true;
-            label6.Location = new System.Drawing.Point(27, 167);
+            label6.Location = new System.Drawing.Point(17, 104);
+            label6.Margin = new Padding(2, 0, 2, 0);
             label6.Name = "label6";
-            label6.Size = new System.Drawing.Size(203, 32);
+            label6.Size = new System.Drawing.Size(126, 20);
             label6.TabIndex = 2;
             label6.Text = "CustomerName:";
             // 
@@ -404,27 +424,30 @@ namespace DBMS_FinalProject_NHOM03
             // 
             label3.AutoSize = true;
             label3.Font = new System.Drawing.Font("Segoe UI Black", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0);
-            label3.Location = new System.Drawing.Point(27, 51);
+            label3.Location = new System.Drawing.Point(17, 32);
+            label3.Margin = new Padding(2, 0, 2, 0);
             label3.Name = "label3";
-            label3.Size = new System.Drawing.Size(121, 32);
+            label3.Size = new System.Drawing.Size(77, 20);
             label3.TabIndex = 0;
             label3.Text = "Order ID:";
             // 
             // txtPaymentMethod
             // 
-            txtPaymentMethod.Location = new System.Drawing.Point(1044, 114);
+            txtPaymentMethod.Location = new System.Drawing.Point(642, 71);
+            txtPaymentMethod.Margin = new Padding(2);
             txtPaymentMethod.Name = "txtPaymentMethod";
             txtPaymentMethod.ReadOnly = true;
-            txtPaymentMethod.Size = new System.Drawing.Size(159, 39);
+            txtPaymentMethod.Size = new System.Drawing.Size(99, 27);
             txtPaymentMethod.TabIndex = 22;
             txtPaymentMethod.Visible = false;
             // 
             // txtStatus
             // 
-            txtStatus.Location = new System.Drawing.Point(1227, 91);
+            txtStatus.Location = new System.Drawing.Point(755, 57);
+            txtStatus.Margin = new Padding(2);
             txtStatus.Name = "txtStatus";
             txtStatus.ReadOnly = true;
-            txtStatus.Size = new System.Drawing.Size(230, 39);
+            txtStatus.Size = new System.Drawing.Size(143, 27);
             txtStatus.TabIndex = 21;
             txtStatus.Visible = false;
             // 
@@ -451,11 +474,12 @@ namespace DBMS_FinalProject_NHOM03
             dataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
             dataGridViewCellStyle5.WrapMode = DataGridViewTriState.False;
             dgvOrders.DefaultCellStyle = dataGridViewCellStyle5;
-            dgvOrders.Location = new System.Drawing.Point(34, 527);
+            dgvOrders.Location = new System.Drawing.Point(21, 329);
+            dgvOrders.Margin = new Padding(2);
             dgvOrders.Name = "dgvOrders";
             dgvOrders.RowHeadersVisible = false;
             dgvOrders.RowHeadersWidth = 82;
-            dgvOrders.Size = new System.Drawing.Size(1460, 713);
+            dgvOrders.Size = new System.Drawing.Size(898, 446);
             dgvOrders.TabIndex = 20;
             dgvOrders.CellContentClick += dgvOrders_CellContentClick;
             dgvOrders.CellValueChanged += dgvOrders_CellValueChanged;
@@ -468,9 +492,9 @@ namespace DBMS_FinalProject_NHOM03
             toolStrip_Filter.Font = new System.Drawing.Font("Segoe UI", 10.125F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0);
             toolStrip_Filter.ImageScalingSize = new System.Drawing.Size(32, 32);
             toolStrip_Filter.Items.AddRange(new ToolStripItem[] { toolStripButton1 });
-            toolStrip_Filter.Location = new System.Drawing.Point(771, 77);
+            toolStrip_Filter.Location = new System.Drawing.Point(562, 48);
             toolStrip_Filter.Name = "toolStrip_Filter";
-            toolStrip_Filter.Size = new System.Drawing.Size(128, 47);
+            toolStrip_Filter.Size = new System.Drawing.Size(79, 30);
             toolStrip_Filter.TabIndex = 23;
             toolStrip_Filter.Text = "toolStrip1";
             // 
@@ -481,29 +505,29 @@ namespace DBMS_FinalProject_NHOM03
             toolStripButton1.Image = (System.Drawing.Image)resources.GetObject("toolStripButton1.Image");
             toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
             toolStripButton1.Name = "toolStripButton1";
-            toolStripButton1.Size = new System.Drawing.Size(106, 41);
+            toolStripButton1.Size = new System.Drawing.Size(66, 27);
             toolStripButton1.Text = "Filter";
             // 
             // byDateToolStripMenuItem
             // 
             byDateToolStripMenuItem.Name = "byDateToolStripMenuItem";
-            byDateToolStripMenuItem.Size = new System.Drawing.Size(256, 46);
+            byDateToolStripMenuItem.Size = new System.Drawing.Size(158, 28);
             byDateToolStripMenuItem.Text = "by Date";
             byDateToolStripMenuItem.Click += byDateToolStripMenuItem_Click;
             // 
             // byPriceToolStripMenuItem
             // 
             byPriceToolStripMenuItem.Name = "byPriceToolStripMenuItem";
-            byPriceToolStripMenuItem.Size = new System.Drawing.Size(256, 46);
+            byPriceToolStripMenuItem.Size = new System.Drawing.Size(158, 28);
             byPriceToolStripMenuItem.Text = "by Price";
             byPriceToolStripMenuItem.Click += byPriceToolStripMenuItem_Click;
             // 
             // txtSearchPrice1
             // 
-            txtSearchPrice1.Location = new System.Drawing.Point(263, 74);
-            txtSearchPrice1.Margin = new Padding(6, 7, 6, 7);
+            txtSearchPrice1.Location = new System.Drawing.Point(162, 46);
+            txtSearchPrice1.Margin = new Padding(4);
             txtSearchPrice1.Name = "txtSearchPrice1";
-            txtSearchPrice1.Size = new System.Drawing.Size(133, 39);
+            txtSearchPrice1.Size = new System.Drawing.Size(83, 27);
             txtSearchPrice1.TabIndex = 24;
             txtSearchPrice1.Visible = false;
             // 
@@ -512,9 +536,10 @@ namespace DBMS_FinalProject_NHOM03
             From.AutoSize = true;
             From.BackColor = System.Drawing.SystemColors.ButtonFace;
             From.Font = new System.Drawing.Font("Segoe UI Black", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0);
-            From.Location = new System.Drawing.Point(179, 86);
+            From.Location = new System.Drawing.Point(110, 54);
+            From.Margin = new Padding(2, 0, 2, 0);
             From.Name = "From";
-            From.Size = new System.Drawing.Size(72, 32);
+            From.Size = new System.Drawing.Size(46, 20);
             From.TabIndex = 23;
             From.Text = "from";
             From.Visible = false;
@@ -524,37 +549,40 @@ namespace DBMS_FinalProject_NHOM03
             To.AutoSize = true;
             To.BackColor = System.Drawing.SystemColors.ButtonFace;
             To.Font = new System.Drawing.Font("Segoe UI Black", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0);
-            To.Location = new System.Drawing.Point(409, 87);
+            To.Location = new System.Drawing.Point(252, 54);
+            To.Margin = new Padding(2, 0, 2, 0);
             To.Name = "To";
-            To.Size = new System.Drawing.Size(39, 32);
+            To.Size = new System.Drawing.Size(25, 20);
             To.TabIndex = 25;
             To.Text = "to";
             To.Visible = false;
             // 
             // txtSearchPrice2
             // 
-            txtSearchPrice2.Location = new System.Drawing.Point(479, 74);
-            txtSearchPrice2.Margin = new Padding(6, 7, 6, 7);
+            txtSearchPrice2.Location = new System.Drawing.Point(295, 46);
+            txtSearchPrice2.Margin = new Padding(4);
             txtSearchPrice2.Name = "txtSearchPrice2";
-            txtSearchPrice2.Size = new System.Drawing.Size(133, 39);
+            txtSearchPrice2.Size = new System.Drawing.Size(83, 27);
             txtSearchPrice2.TabIndex = 26;
             txtSearchPrice2.Visible = false;
             // 
             // dateTimePicker_FromDate
             // 
             dateTimePicker_FromDate.Format = DateTimePickerFormat.Short;
-            dateTimePicker_FromDate.Location = new System.Drawing.Point(253, 83);
+            dateTimePicker_FromDate.Location = new System.Drawing.Point(156, 52);
+            dateTimePicker_FromDate.Margin = new Padding(2);
             dateTimePicker_FromDate.Name = "dateTimePicker_FromDate";
-            dateTimePicker_FromDate.Size = new System.Drawing.Size(155, 39);
+            dateTimePicker_FromDate.Size = new System.Drawing.Size(97, 27);
             dateTimePicker_FromDate.TabIndex = 27;
             dateTimePicker_FromDate.Visible = false;
             // 
             // dateTimePicker_ToDate
             // 
             dateTimePicker_ToDate.Format = DateTimePickerFormat.Short;
-            dateTimePicker_ToDate.Location = new System.Drawing.Point(454, 81);
+            dateTimePicker_ToDate.Location = new System.Drawing.Point(279, 51);
+            dateTimePicker_ToDate.Margin = new Padding(2);
             dateTimePicker_ToDate.Name = "dateTimePicker_ToDate";
-            dateTimePicker_ToDate.Size = new System.Drawing.Size(170, 39);
+            dateTimePicker_ToDate.Size = new System.Drawing.Size(106, 27);
             dateTimePicker_ToDate.TabIndex = 28;
             dateTimePicker_ToDate.Visible = false;
             // 
@@ -563,9 +591,10 @@ namespace DBMS_FinalProject_NHOM03
             closeButton.BackColor = System.Drawing.Color.OrangeRed;
             closeButton.BackgroundImage = (System.Drawing.Image)resources.GetObject("closeButton.BackgroundImage");
             closeButton.BackgroundImageLayout = ImageLayout.Zoom;
-            closeButton.Location = new System.Drawing.Point(2142, -1);
+            closeButton.Location = new System.Drawing.Point(1318, -1);
+            closeButton.Margin = new Padding(2);
             closeButton.Name = "closeButton";
-            closeButton.Size = new System.Drawing.Size(87, 54);
+            closeButton.Size = new System.Drawing.Size(54, 34);
             closeButton.TabIndex = 30;
             closeButton.Click += closeButton_Click;
             // 
@@ -574,9 +603,10 @@ namespace DBMS_FinalProject_NHOM03
             minimizeButton.BackColor = System.Drawing.Color.LimeGreen;
             minimizeButton.BackgroundImage = (System.Drawing.Image)resources.GetObject("minimizeButton.BackgroundImage");
             minimizeButton.BackgroundImageLayout = ImageLayout.Zoom;
-            minimizeButton.Location = new System.Drawing.Point(2058, -1);
+            minimizeButton.Location = new System.Drawing.Point(1266, -1);
+            minimizeButton.Margin = new Padding(2);
             minimizeButton.Name = "minimizeButton";
-            minimizeButton.Size = new System.Drawing.Size(87, 54);
+            minimizeButton.Size = new System.Drawing.Size(54, 34);
             minimizeButton.TabIndex = 32;
             minimizeButton.Click += minimizeButton_Click;
             minimizeButton.Paint += minimizeButton_Paint;
@@ -589,8 +619,9 @@ namespace DBMS_FinalProject_NHOM03
             movePanel.Controls.Add(pictureBox2);
             movePanel.Controls.Add(label5);
             movePanel.Location = new System.Drawing.Point(-1, -1);
+            movePanel.Margin = new Padding(2);
             movePanel.Name = "movePanel";
-            movePanel.Size = new System.Drawing.Size(2067, 54);
+            movePanel.Size = new System.Drawing.Size(1271, 34);
             movePanel.TabIndex = 34;
             movePanel.Click += movePanel_Click;
             movePanel.Paint += movePanel_Paint;
@@ -602,9 +633,10 @@ namespace DBMS_FinalProject_NHOM03
             pictureBox2.BackColor = System.Drawing.Color.Navy;
             pictureBox2.BackgroundImageLayout = ImageLayout.None;
             pictureBox2.Image = (System.Drawing.Image)resources.GetObject("pictureBox2.Image");
-            pictureBox2.Location = new System.Drawing.Point(3, 1);
+            pictureBox2.Location = new System.Drawing.Point(2, 1);
+            pictureBox2.Margin = new Padding(2);
             pictureBox2.Name = "pictureBox2";
-            pictureBox2.Size = new System.Drawing.Size(56, 53);
+            pictureBox2.Size = new System.Drawing.Size(34, 33);
             pictureBox2.SizeMode = PictureBoxSizeMode.Zoom;
             pictureBox2.TabIndex = 37;
             pictureBox2.TabStop = false;
@@ -615,10 +647,10 @@ namespace DBMS_FinalProject_NHOM03
             label5.AutoSize = true;
             label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.875F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0);
             label5.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            label5.Location = new System.Drawing.Point(59, 4);
-            label5.Margin = new Padding(6, 0, 6, 0);
+            label5.Location = new System.Drawing.Point(36, 2);
+            label5.Margin = new Padding(4, 0, 4, 0);
             label5.Name = "label5";
-            label5.Size = new System.Drawing.Size(357, 42);
+            label5.Size = new System.Drawing.Size(238, 29);
             label5.TabIndex = 35;
             label5.Text = "Order Management";
             // 
@@ -626,9 +658,10 @@ namespace DBMS_FinalProject_NHOM03
             // 
             logo_picture.BackgroundImageLayout = ImageLayout.None;
             logo_picture.Image = (System.Drawing.Image)resources.GetObject("logo_picture.Image");
-            logo_picture.Location = new System.Drawing.Point(1838, 59);
+            logo_picture.Location = new System.Drawing.Point(1131, 37);
+            logo_picture.Margin = new Padding(2);
             logo_picture.Name = "logo_picture";
-            logo_picture.Size = new System.Drawing.Size(403, 216);
+            logo_picture.Size = new System.Drawing.Size(248, 135);
             logo_picture.SizeMode = PictureBoxSizeMode.Zoom;
             logo_picture.TabIndex = 35;
             logo_picture.TabStop = false;
@@ -638,18 +671,19 @@ namespace DBMS_FinalProject_NHOM03
             pictureBox1.BackColor = System.Drawing.SystemColors.ButtonFace;
             pictureBox1.BackgroundImageLayout = ImageLayout.None;
             pictureBox1.Image = (System.Drawing.Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new System.Drawing.Point(12, 67);
+            pictureBox1.Location = new System.Drawing.Point(7, 42);
+            pictureBox1.Margin = new Padding(2);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new System.Drawing.Size(44, 64);
+            pictureBox1.Size = new System.Drawing.Size(27, 40);
             pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
             pictureBox1.TabIndex = 36;
             pictureBox1.TabStop = false;
             // 
             // OrderManagementForm
             // 
-            AutoScaleDimensions = new System.Drawing.SizeF(13F, 32F);
+            AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new System.Drawing.Size(2229, 1321);
+            ClientSize = new System.Drawing.Size(1370, 764);
             Controls.Add(pictureBox1);
             Controls.Add(logo_picture);
             Controls.Add(minimizeButton);
@@ -675,6 +709,7 @@ namespace DBMS_FinalProject_NHOM03
             Controls.Add(movePanel);
             FormBorderStyle = FormBorderStyle.None;
             Icon = (System.Drawing.Icon)resources.GetObject("$this.Icon");
+            Margin = new Padding(2);
             Name = "OrderManagementForm";
             Text = "OrderManagementForm";
             Load += OrderManagementForm_Load;

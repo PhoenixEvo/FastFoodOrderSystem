@@ -72,7 +72,7 @@ namespace DBMS_FinalProject_NHOM03
 
                 //dgvOrders.Columns.Clear();
                 dgvOrders.DataSource = dt;
-    
+
             }
             catch (Exception ex)
             {
@@ -155,9 +155,9 @@ namespace DBMS_FinalProject_NHOM03
                 DataSet ds = _orderBL.GetOrderDetails(orderId);
                 if (ds.Tables[0].Rows.Count > 0)
                 {
-            
+
                     DataRow row = ds.Tables[0].Rows[0];
-    
+
                     txtAddress.Text = row["FullAddress"].ToString();
                     Status_cbx.SelectedItem = row["Status"];
                     txtCustomerName.Text = row["CustomerName"].ToString();
@@ -417,6 +417,11 @@ namespace DBMS_FinalProject_NHOM03
         }
 
         private void OrderManagementForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void InformationGrBox_Enter(object sender, EventArgs e)
         {
 
         }

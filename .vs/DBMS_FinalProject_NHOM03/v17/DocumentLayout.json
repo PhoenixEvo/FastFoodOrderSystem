@@ -1,202 +1,416 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FastFoodOrderSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|d:\\fastfoodordersystem\\dbms_finalproject_nhom03\\bs layer\\blorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\bs layer\\blorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|c:\\users\\dell\\downloads\\fastfoodordersystem\\dbms_finalproject_nhom03\\frminventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\frminventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|d:\\fastfoodordersystem\\dbms_finalproject_nhom03\\db layer\\dbmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\db layer\\dbmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\dbms_finalproject_nhom03\\frminventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\frminventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|d:\\fastfoodordersystem\\dbms_finalproject_nhom03\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|c:\\users\\dell\\downloads\\fastfoodordersystem\\dbms_finalproject_nhom03\\bs layer\\blinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\bs layer\\blinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|d:\\fastfoodordersystem\\dbms_finalproject_nhom03\\frmtrackingorderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\frmtrackingorderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|c:\\users\\dell\\downloads\\fastfoodordersystem\\dbms_finalproject_nhom03\\frminventory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\frminventory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|D:\\FastFoodOrderSystem\\dbms_finalproject_nhom03\\frmtrackingorderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\frmtrackingorderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|D:\\FastFoodOrderSystem\\dbms_finalproject_nhom03\\frmstafflogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\dbms_finalproject_nhom03\\frmstafflogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\frmstafflogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|d:\\fastfoodordersystem\\dbms_finalproject_nhom03\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Documents\\Zalo Received Files\\OrderManagementForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|D:\\FastFoodOrderSystem\\dbms_finalproject_nhom03\\test_caidatc#tusql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|c:\\users\\dell\\downloads\\fastfoodordersystem\\dbms_finalproject_nhom03\\resources\\minimize (1)1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\resources\\minimize (1)1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\dbms_finalproject_nhom03\\ordermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\ordermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|c:\\users\\dell\\downloads\\fastfoodordersystem\\dbms_finalproject_nhom03\\ordermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\ordermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\dbms_finalproject_nhom03\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|c:\\users\\dell\\downloads\\fastfoodordersystem\\dbms_finalproject_nhom03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\dbms_finalproject_nhom03\\frmcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\frmcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|c:\\users\\dell\\downloads\\fastfoodordersystem\\dbms_finalproject_nhom03\\frmcheckout.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\frmcheckout.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\dbms_finalproject_nhom03\\frmtrackingorderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\frmtrackingorderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\dbms_finalproject_nhom03\\test_caidatc#tusql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\test_caidatc#tusql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|d:\\fastfoodordersystem\\dbms_finalproject_nhom03\\test_caidatc#tusql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\test_caidatc#tusql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|c:\\users\\dell\\downloads\\fastfoodordersystem\\dbms_finalproject_nhom03\\frmcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\frmcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|d:\\fastfoodordersystem\\dbms_finalproject_nhom03\\frmstafflogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\frmstafflogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|c:\\users\\dell\\downloads\\fastfoodordersystem\\dbms_finalproject_nhom03\\frmtrackingorderstatus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\frmtrackingorderstatus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|c:\\users\\dell\\downloads\\fastfoodordersystem\\dbms_finalproject_nhom03\\bs layer\\blorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\bs layer\\blorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|c:\\users\\dell\\downloads\\fastfoodordersystem\\dbms_finalproject_nhom03\\dbms_finalproject_nhom03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\dbms_finalproject_nhom03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|c:\\users\\dell\\downloads\\fastfoodordersystem\\dbms_finalproject_nhom03\\bs layer\\bltrackingorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\bs layer\\bltrackingorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|c:\\users\\dell\\downloads\\fastfoodordersystem\\dbms_finalproject_nhom03\\bs layer\\blstafflogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\bs layer\\blstafflogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|c:\\users\\dell\\downloads\\fastfoodordersystem\\dbms_finalproject_nhom03\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|c:\\users\\dell\\downloads\\fastfoodordersystem\\dbms_finalproject_nhom03\\frmtrackingorderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\frmtrackingorderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|c:\\users\\dell\\downloads\\fastfoodordersystem\\dbms_finalproject_nhom03\\test_caidatc#tusql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\test_caidatc#tusql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 130,
       "DocumentGroups": [
         {
-          "DockedWidth": 275,
-          "SelectedChildIndex": 12,
+          "DockedWidth": 382,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Database.cs",
-              "DocumentMoniker": "D:\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\Database.cs",
-              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\Database.cs",
-              "ToolTip": "D:\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\Database.cs",
-              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\Database.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwBoAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "OrderManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\OrderManagementForm.cs",
+              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\OrderManagementForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\OrderManagementForm.cs",
+              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\OrderManagementForm.cs",
+              "ViewState": "AgIAAH0BAAAAAAAAAAAAAJUBAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T17:40:30.559Z",
+              "WhenOpened": "2025-04-16T07:37:17.531Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\OrderManagementForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\Documents\\Zalo Received Files\\OrderManagementForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\OrderManagementForm.cs",
+              "RelativeToolTip": "..\\..\\Documents\\Zalo Received Files\\OrderManagementForm.cs",
+              "ViewState": "AgIAAHoBAAAAAAAAAAAAAJUBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:57:10.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\Program.cs",
+              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\Program.cs",
+              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:07:32.698Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "frmInventory.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmInventory.Designer.cs",
+              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\frmInventory.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmInventory.Designer.cs",
+              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\frmInventory.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:58:49.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmInventory.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmInventory.cs",
+              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\frmInventory.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmInventory.cs",
+              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\frmInventory.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAALAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:44:26.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BLInventory.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\BS layer\\BLInventory.cs",
+              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\BS layer\\BLInventory.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\BS layer\\BLInventory.cs",
+              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\BS layer\\BLInventory.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwEkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:31:27.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BLTrackingOrder.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\BS layer\\BLTrackingOrder.cs",
+              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\BS layer\\BLTrackingOrder.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\BS layer\\BLTrackingOrder.cs",
+              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\BS layer\\BLTrackingOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:54:04.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BLStaffLogin.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\BS layer\\BLStaffLogin.cs",
+              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\BS layer\\BLStaffLogin.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\BS layer\\BLStaffLogin.cs",
+              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\BS layer\\BLStaffLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:54:03.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BLOrder.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\BS layer\\BLOrder.cs",
+              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\BS layer\\BLOrder.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\BS layer\\BLOrder.cs",
+              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\BS layer\\BLOrder.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:54:01.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "minimize (1)1.png",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\Resources\\minimize (1)1.png",
+              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\Resources\\minimize (1)1.png",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\Resources\\minimize (1)1.png",
+              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\Resources\\minimize (1)1.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-15T07:52:54.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmCheckOut.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmCheckOut.Designer.cs",
+              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\frmCheckOut.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmCheckOut.Designer.cs",
+              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\frmCheckOut.Designer.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAowJUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:03:51.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmCheckOut.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmCheckOut.cs",
+              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\frmCheckOut.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmCheckOut.cs",
+              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\frmCheckOut.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vxQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:03:47.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\Database.cs",
+              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\Database.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\Database.cs",
+              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\Database.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:39:27.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAKwUAAAAAAAAAAAvwMkUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-15T06:42:06.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmTrackingOrderStatus.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmTrackingOrderStatus.Designer.cs",
+              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\frmTrackingOrderStatus.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmTrackingOrderStatus.Designer.cs",
+              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\frmTrackingOrderStatus.Designer.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAowJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:41:27.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DBMS_FinalProject_NHOM03.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj",
+              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj",
+              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T06:32:09.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "frmTrackingOrderStatus.cs",
-              "DocumentMoniker": "D:\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmTrackingOrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmTrackingOrderStatus.cs",
               "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\frmTrackingOrderStatus.cs",
-              "ToolTip": "D:\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmTrackingOrderStatus.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmTrackingOrderStatus.cs",
               "RelativeToolTip": "DBMS_FinalProject_NHOM03\\frmTrackingOrderStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T17:14:04.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DBMain.cs",
-              "DocumentMoniker": "D:\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\DB layer\\DBMain.cs",
-              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\DB layer\\DBMain.cs",
-              "ToolTip": "D:\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\DB layer\\DBMain.cs",
-              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\DB layer\\DBMain.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "Test_CaiDatC#TuSQL.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\Test_CaiDatC#TuSQL.cs",
+              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\Test_CaiDatC#TuSQL.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\Test_CaiDatC#TuSQL.cs",
+              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\Test_CaiDatC#TuSQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T15:04:15.473Z",
+              "WhenOpened": "2025-03-30T15:47:08.578Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "frmInventory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmInventory.cs",
+              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\frmInventory.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmInventory.cs [Design]",
+              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\frmInventory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:16:14.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmCheckOut.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmCheckOut.cs",
+              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\frmCheckOut.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmCheckOut.cs [Design]",
+              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\frmCheckOut.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:48:21.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\MainForm.cs",
+              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\MainForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\MainForm.cs [Design]",
+              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:34:00.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\OrderManagementForm.cs",
+              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\OrderManagementForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\OrderManagementForm.cs [Design]",
+              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\OrderManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:51:00.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "frmTrackingOrderStatus.cs [Design]",
-              "DocumentMoniker": "D:\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmTrackingOrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmTrackingOrderStatus.cs",
               "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\frmTrackingOrderStatus.cs",
-              "ToolTip": "D:\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmTrackingOrderStatus.cs [Design]",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmTrackingOrderStatus.cs [Design]",
               "RelativeToolTip": "DBMS_FinalProject_NHOM03\\frmTrackingOrderStatus.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T15:58:01.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "D:\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\MainForm.cs",
-              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\MainForm.cs",
-              "ToolTip": "D:\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\MainForm.cs",
-              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\MainForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T06:19:17.831Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Test_CaiDatC#TuSQL.cs [Design]",
-              "DocumentMoniker": "D:\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\Test_CaiDatC#TuSQL.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\Test_CaiDatC#TuSQL.cs",
               "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\Test_CaiDatC#TuSQL.cs",
-              "ToolTip": "D:\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\Test_CaiDatC#TuSQL.cs [Design]",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\Test_CaiDatC#TuSQL.cs [Design]",
               "RelativeToolTip": "DBMS_FinalProject_NHOM03\\Test_CaiDatC#TuSQL.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T15:43:49.81Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Test_CaiDatC#TuSQL.cs",
-              "DocumentMoniker": "D:\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\Test_CaiDatC#TuSQL.cs",
-              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\Test_CaiDatC#TuSQL.cs",
-              "ToolTip": "D:\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\Test_CaiDatC#TuSQL.cs",
-              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\Test_CaiDatC#TuSQL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T15:47:08.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmStaffLogin.cs",
-              "DocumentMoniker": "D:\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmStaffLogin.cs",
-              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\frmStaffLogin.cs",
-              "ToolTip": "D:\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmStaffLogin.cs",
-              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\frmStaffLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T15:25:02.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "frmStaffLogin.cs [Design]",
-              "DocumentMoniker": "D:\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmStaffLogin.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmStaffLogin.cs",
               "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\frmStaffLogin.cs",
-              "ToolTip": "D:\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmStaffLogin.cs [Design]",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmStaffLogin.cs [Design]",
               "RelativeToolTip": "DBMS_FinalProject_NHOM03\\frmStaffLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T15:24:24.754Z"
@@ -204,21 +418,20 @@
           ]
         },
         {
-          "DockedWidth": 309,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 202,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BLOrder.cs",
-              "DocumentMoniker": "D:\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\BS layer\\BLOrder.cs",
-              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\BS layer\\BLOrder.cs",
-              "ToolTip": "D:\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\BS layer\\BLOrder.cs",
-              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\BS layer\\BLOrder.cs",
-              "ViewState": "AgIAAAoBAAAAAAAAAAAAABQBAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T15:07:21.269Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
             }
           ]
         }
