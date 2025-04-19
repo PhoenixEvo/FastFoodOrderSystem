@@ -132,7 +132,7 @@ namespace DBMS_FinalProject_NHOM03
             // 
             // txtSearch
             // 
-            txtSearch.Location = new System.Drawing.Point(199, 74);
+            txtSearch.Location = new System.Drawing.Point(199, 81);
             txtSearch.Margin = new Padding(6, 7, 6, 7);
             txtSearch.Name = "txtSearch";
             txtSearch.Size = new System.Drawing.Size(429, 39);
@@ -329,7 +329,7 @@ namespace DBMS_FinalProject_NHOM03
             // PaymentMethod_cbx
             // 
             PaymentMethod_cbx.FormattingEnabled = true;
-            PaymentMethod_cbx.Items.AddRange(new object[] { "Cash", "Credit Card", "Debit Card" });
+            PaymentMethod_cbx.Items.AddRange(new object[] { "Cash" });
             PaymentMethod_cbx.Location = new System.Drawing.Point(1092, 167);
             PaymentMethod_cbx.Name = "PaymentMethod_cbx";
             PaymentMethod_cbx.Size = new System.Drawing.Size(158, 40);

@@ -287,6 +287,12 @@ namespace DBMS_FinalProject_NHOM03
                         dgvOrders.DataSource = ds.Tables[0];
                         return;
                     }
+                    ds = _orderBL.SearchOrders(status: searchValue);
+                    if (ds.Tables.Count > 0 && ds.Tables[0].Rows.Count > 0)
+                    {
+                        dgvOrders.DataSource = ds.Tables[0];
+                        return;
+                    }
                 }
                 catch (Exception ex)
                 {

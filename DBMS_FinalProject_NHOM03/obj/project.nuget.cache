@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YqmSkojA0xI=",
+  "dgSpecHash": "i5zZQCCaCb0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\trant\\Downloads\\DBMS\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj",
+  "projectFilePath": "D:\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trant\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\trant\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -25,6 +25,7 @@
     "C:\\Users\\trant\\.nuget\\packages\\microsoft.identitymodel.protocols\\7.5.0\\microsoft.identitymodel.protocols.7.5.0.nupkg.sha512",
     "C:\\Users\\trant\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\7.5.0\\microsoft.identitymodel.protocols.openidconnect.7.5.0.nupkg.sha512",
     "C:\\Users\\trant\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.5.0\\microsoft.identitymodel.tokens.7.5.0.nupkg.sha512",
+    "C:\\Users\\trant\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
     "C:\\Users\\trant\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\trant\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\trant\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

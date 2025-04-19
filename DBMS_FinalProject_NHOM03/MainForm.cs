@@ -33,5 +33,15 @@ namespace DBMS_FinalProject_NHOM03
             TrackingOrderStatusForm frmTrackingOrder = new TrackingOrderStatusForm();
             frmTrackingOrder.Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
