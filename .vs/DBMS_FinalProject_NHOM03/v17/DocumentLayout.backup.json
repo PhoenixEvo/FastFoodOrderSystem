@@ -1,32 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive - hcmute.edu.vn\\DBMS\\FinalProject\\FastFoodOrderSystem\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|c:\\users\\hp\\onedrive - hcmute.edu.vn\\dbms\\finalproject\\fastfoodordersystem\\dbms_finalproject_nhom03\\frmcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\frmcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|c:\\users\\hp\\onedrive - hcmute.edu.vn\\dbms\\finalproject\\fastfoodordersystem\\dbms_finalproject_nhom03\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|c:\\users\\hp\\onedrive - hcmute.edu.vn\\dbms\\finalproject\\fastfoodordersystem\\dbms_finalproject_nhom03\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|c:\\users\\hp\\onedrive - hcmute.edu.vn\\dbms\\finalproject\\fastfoodordersystem\\dbms_finalproject_nhom03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|c:\\users\\hp\\onedrive - hcmute.edu.vn\\dbms\\finalproject\\fastfoodordersystem\\dbms_finalproject_nhom03\\frmcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\frmcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|c:\\users\\hp\\onedrive - hcmute.edu.vn\\dbms\\finalproject\\fastfoodordersystem\\dbms_finalproject_nhom03\\cartcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3147C024-4C46-4196-AFF4-028690AB24CF}|DBMS_FinalProject_NHOM03\\DBMS_FinalProject_NHOM03.csproj|solutionrelative:dbms_finalproject_nhom03\\cartcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -34,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 436,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,82 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive - hcmute.edu.vn\\DBMS\\FinalProject\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\Program.cs",
-              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\OneDrive - hcmute.edu.vn\\DBMS\\FinalProject\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\Program.cs",
-              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T13:21:13.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive - hcmute.edu.vn\\DBMS\\FinalProject\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\MainForm.cs",
-              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\MainForm.cs",
-              "ToolTip": "C:\\Users\\HP\\OneDrive - hcmute.edu.vn\\DBMS\\FinalProject\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\MainForm.cs",
-              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\MainForm.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T13:20:16.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive - hcmute.edu.vn\\DBMS\\FinalProject\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\MainForm.cs",
-              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\MainForm.cs",
-              "ToolTip": "C:\\Users\\HP\\OneDrive - hcmute.edu.vn\\DBMS\\FinalProject\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\MainForm.cs [Design]",
-              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T13:18:42.48Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmCheckOut.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive - hcmute.edu.vn\\DBMS\\FinalProject\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmCheckOut.cs",
-              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\frmCheckOut.cs",
-              "ToolTip": "C:\\Users\\HP\\OneDrive - hcmute.edu.vn\\DBMS\\FinalProject\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmCheckOut.cs [Design]",
-              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\frmCheckOut.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T13:20:32.138Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmCheckOut.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive - hcmute.edu.vn\\DBMS\\FinalProject\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmCheckOut.cs",
-              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\frmCheckOut.cs",
-              "ToolTip": "C:\\Users\\HP\\OneDrive - hcmute.edu.vn\\DBMS\\FinalProject\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\frmCheckOut.cs",
-              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\frmCheckOut.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T13:20:57.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CartCustomer.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive - hcmute.edu.vn\\DBMS\\FinalProject\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\CartCustomer.cs",
-              "RelativeDocumentMoniker": "DBMS_FinalProject_NHOM03\\CartCustomer.cs",
-              "ToolTip": "C:\\Users\\HP\\OneDrive - hcmute.edu.vn\\DBMS\\FinalProject\\FastFoodOrderSystem\\DBMS_FinalProject_NHOM03\\CartCustomer.cs",
-              "RelativeToolTip": "DBMS_FinalProject_NHOM03\\CartCustomer.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAhwBIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T13:19:27.456Z",
-              "EditorCaption": ""
             }
           ]
         }
