@@ -28,7 +28,6 @@ namespace DBMS_FinalProject_NHOM03
             InitializeComponent();
             Database db = new Database();
             customerBL = new BLCustomer(db);
-            txtid.Text = _sessionID;
         }
 
 

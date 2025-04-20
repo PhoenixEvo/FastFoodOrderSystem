@@ -32,7 +32,6 @@ namespace DBMS_FinalProject_NHOM03
             InitializeComponent();
             ConfigureUIByUserRole(CurrentUser.Role);
             blMenu = new BLMenu(db);
-            txtid.Text = _sessionID;
             ShowMenu();
             GetCombo();
         }
