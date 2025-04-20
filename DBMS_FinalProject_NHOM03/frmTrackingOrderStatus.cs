@@ -33,24 +33,21 @@ namespace DBMS_FinalProject_NHOM03
         {
             if (string.IsNullOrWhiteSpace(txtOrderID.Text))
             {
-                MessageBox.Show("Vui lòng nhập mã đơn hàng", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Please add the OrderID", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
-
             try
             {
                 String orderId = (txtOrderID.Text.Trim());
-                //string orderId = txtOrderID.Text.Trim();
-
                 LoadOrderInfo(orderId);
             }
             catch (FormatException)
             {
-                MessageBox.Show("Mã đơn hàng không hợp lệ", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("OrderID do not fit", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"Lỗi: {ex.Message}", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show($"Error: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
@@ -91,7 +88,7 @@ namespace DBMS_FinalProject_NHOM03
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Lỗi khi hiển thị chi tiết đơn hàng: " + ex.Message);
+                MessageBox.Show("Error when Display Order Details: " + ex.Message);
             }
         }
         private void AdjustRichTextBoxSize(RichTextBox rtb)
