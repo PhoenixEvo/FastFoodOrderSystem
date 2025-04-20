@@ -16,12 +16,7 @@ namespace DBMS_FinalProject_NHOM03
     {
         string _sessionID = SessionManager.SessionID;
         private BLCustomer customerBL;
-        //public frmCheckOut(string sessionId)
-        //{
-        //    InitializeComponent();
-        //    Database db = new Database();
-        //    customerBL = new BLCustomer(db);
-        //}
+        
         [DllImport("user32.dll", EntryPoint = "ReleaseCapture")]
         private extern static void ReleaseCapture();
         [DllImport("user32.dll", EntryPoint = "SendMessage")]
@@ -33,7 +28,7 @@ namespace DBMS_FinalProject_NHOM03
             InitializeComponent();
             Database db = new Database();
             customerBL = new BLCustomer(db);
-            txtId.Text = _sessionID;
+            txtid.Text = _sessionID;
         }
 
 

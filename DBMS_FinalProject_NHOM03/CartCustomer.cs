@@ -22,6 +22,7 @@ namespace DBMS_FinalProject_NHOM03
             InitializeComponent();
             blMenu = new BLMenu(new Database());
             _sessionID = SessionManager.SessionID;
+            txtid.Text=_sessionID;
             ShowCart();
         }
         private void ShowCart()
@@ -112,5 +113,7 @@ namespace DBMS_FinalProject_NHOM03
         {
             Application.Exit();
         }
+
+       
     }
 }

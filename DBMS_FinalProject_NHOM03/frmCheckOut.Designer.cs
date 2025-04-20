@@ -51,7 +51,6 @@
             btnClear = new System.Windows.Forms.Button();
             label7 = new System.Windows.Forms.Label();
             cboPaymentMethod = new System.Windows.Forms.ComboBox();
-            txtId = new System.Windows.Forms.TextBox();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             SuspendLayout();
@@ -286,20 +285,11 @@
             cboPaymentMethod.Size = new System.Drawing.Size(116, 28);
             cboPaymentMethod.TabIndex = 58;
             // 
-            // txtId
-            // 
-            txtId.Location = new System.Drawing.Point(167, 63);
-            txtId.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            txtId.Name = "txtId";
-            txtId.Size = new System.Drawing.Size(300, 27);
-            txtId.TabIndex = 59;
-            // 
             // frmCheckOut
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             ClientSize = new System.Drawing.Size(684, 614);
-            Controls.Add(txtId);
             Controls.Add(cboPaymentMethod);
             Controls.Add(label7);
             Controls.Add(btnClear);
@@ -355,6 +345,5 @@
         private System.Windows.Forms.Button btnClear;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.ComboBox cboPaymentMethod;
-        private System.Windows.Forms.TextBox txtId;
     }
 }
