@@ -1,5 +1,4 @@
-﻿using DBMS_FinalProject_NHOM03.BS_Layer;
-using DBMS_FinalProject_NHOM03.DB_Layer;
+﻿using DBMS_FinalProject_NHOM03.BS_layer;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -17,7 +16,7 @@ namespace DBMS_FinalProject_NHOM03
 {
     public partial class Combo_Management : Form
     {
-        DBMain dt = new DBMain();
+        Database dt = new Database();
         private BLMenu bl;
         private string ssid = SessionManager.SessionID;
 
@@ -36,10 +35,6 @@ namespace DBMS_FinalProject_NHOM03
             dgvCombo.DataSource = dt1;
             dgvComboItem.DataSource = dt2;
             dgvCombo.Columns["Price"].DefaultCellStyle.Format = "N0";
-        }
-        private void pc_exit_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
         }
 
         private void dgvCombo_CellClick(object sender, DataGridViewCellEventArgs e)
@@ -239,6 +234,11 @@ namespace DBMS_FinalProject_NHOM03
         {
             LoadComboandItemTable();
             ClearTextBoxes();
+        }
+
+        private void closeButton_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

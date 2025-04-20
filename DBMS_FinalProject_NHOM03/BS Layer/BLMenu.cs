@@ -1,5 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore.Storage;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
@@ -9,11 +8,10 @@ using System.Linq;
 using System.Net.NetworkInformation;
 using System.Text;
 using System.Threading.Tasks;
-using DBMS_FinalProject_NHOM03.DB_Layer;
-
 using System.Windows.Forms;
+using DBMS_FinalProject_NHOM03.DB_layer;
 
-namespace DBMS_FinalProject_NHOM03.BS_Layer
+namespace DBMS_FinalProject_NHOM03.BS_layer
 {
     public class SessionManager
     {
@@ -25,10 +23,10 @@ namespace DBMS_FinalProject_NHOM03.BS_Layer
     }
     internal class BLMenu
     {
-        private DBMain db;
+        private Database db;
         private string _sessionID;
 
-        public BLMenu(DBMain dab)
+        public BLMenu(Database dab)
         {
             db = dab;
         }
@@ -220,8 +218,8 @@ namespace DBMS_FinalProject_NHOM03.BS_Layer
             return ds;
         }
 
-        public DataSet ProcessCart(string action, string sessionID, string foodID, string comboID,int quantity,
-            decimal price,out Guid? orderID,string phoneNumber, string customerName,string district, string ward, 
+        public DataSet ProcessCart(string action, string sessionID, string foodID, string comboID, int quantity,
+            decimal price, out Guid? orderID, string phoneNumber, string customerName, string district, string ward,
             string street, string houseNumber)
         {
             orderID = null;

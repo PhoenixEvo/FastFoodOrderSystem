@@ -1,119 +1,60 @@
-﻿using System.Data.SqlClient;
-using System;
+﻿using System;
 using System.Data;
-using System.Security.AccessControl;
-using System.Windows.Forms;
+using System.Data.SqlClient;
 
-
-namespace DBMS_FinalProject_NHOM03.DB_Layer
+namespace DBMS_FinalProject_NHOM03.DB_layer
 {
-    internal class DBMain
+    class DBMain
     {
-
-        private SqlConnection conn;
+        private Database database;
         private SqlCommand comm;
-        private string connectionString;
+        private SqlDataAdapter da;
 
         public DBMain()
         {
-            connectionString = "Data Source=Pa;" +
-                               "Initial Catalog=Fast_Food_DB;" +
-                               "Integrated Security=True;" +
-                                "TrustServerCertificate=True";
-
-            conn = new SqlConnection(connectionString);
-            comm = conn.CreateCommand();
-        }
-        public SqlConnection getConnection()
-        {
-            return conn;
-        }
-        public void openConnection()
-        {
-            if (conn.State == ConnectionState.Closed)
-            {
-                conn.Open();
-            }
+            database = new Database();
+            comm = database.getConnection().CreateCommand();
         }
 
-        public void closeConnection()
+        public DataSet ExecuteQueryDataSet(string strSQL, CommandType ct)
         {
-            if (conn.State == ConnectionState.Open)
-            {
-                conn.Close();
-            }
-        }
-
-        public void new_comm()
-        {
-            closeConnection();
-            openConnection();
-        }
-
-        public DataSet ExecuteQueryDataSet(string sql, CommandType commandType, params string[] parameters)
-        {
+            database.new_comm();
+            comm.CommandText = strSQL;
+            comm.CommandType = ct;
+            da = new SqlDataAdapter(comm);
             DataSet ds = new DataSet();
-            SqlDataAdapter da = new SqlDataAdapter(sql, conn);
-            da.SelectCommand.CommandType = commandType;
-            for (int i = 0; i < parameters.Length; i += 2)
-            {
-                var paramName = parameters[i];
-                var paramValue = parameters[i + 1];
-                da.SelectCommand.Parameters.AddWithValue(paramName, paramValue);
-            }
+            da.Fill(ds);
+            return ds;
+        }
+
+        public bool MyExecuteNonQuery(string strSQL, CommandType ct, ref string error)
+        {
+            bool success = false;
+            database.new_comm();
+            comm.CommandText = strSQL;
+            comm.CommandType = ct;
             try
             {
-                openConnection();
-                da.Fill(ds);
+                comm.ExecuteNonQuery();
+                success = true;
             }
             catch (SqlException ex)
             {
-                Console.WriteLine("Error: " + ex.Message);
+                error = ex.Message;
             }
             finally
             {
-                closeConnection();
+                database.closeConnection();
             }
-            return ds;
-        }
-        public DataTable ExecuteReader(string sql, CommandType commandType = CommandType.Text)
-        {
-            new_comm();
-            SqlCommand command = new SqlCommand(sql, conn);
-            command.CommandType = commandType;
-            DataTable dataTable = new DataTable();
-            using (SqlDataReader reader = command.ExecuteReader())
-            {
-                dataTable.Load(reader);
-            }
-            closeConnection();
-            return dataTable;
-        }
-        public object ExecuteScalarQuery(string sql, CommandType commandType, params SqlParameter[] parameters)
-        {
-            using (SqlCommand cmd = new SqlCommand(sql, getConnection()))
-            {
-                cmd.CommandType = commandType;
-                if (parameters != null)
-                {
-                    cmd.Parameters.AddRange(parameters);
-                }
-                try
-                {
-                    openConnection();
-                    return cmd.ExecuteScalar();
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine("Error executing query: " + ex.Message);
-                    return null;
-                }
-                finally
-                {
-                    closeConnection();
-                }
-            }
+            return success;
         }
 
+        public SqlDataReader ExecuteReader(string strSQL, CommandType ct)
+        {
+            database.new_comm();
+            comm.CommandText = strSQL;
+            comm.CommandType = ct;
+            return comm.ExecuteReader(CommandBehavior.CloseConnection);
+        }
     }
 }

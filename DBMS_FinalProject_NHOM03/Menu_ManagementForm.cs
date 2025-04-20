@@ -1,5 +1,5 @@
-﻿using DBMS_FinalProject_NHOM03.BS_Layer;
-using DBMS_FinalProject_NHOM03.DB_Layer;
+﻿using DBMS_FinalProject_NHOM03.BS_layer;
+using DBMS_FinalProject_NHOM03.DB_layer;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -15,7 +15,7 @@ namespace DBMS_FinalProject_NHOM03
 {
     public partial class Menu_ManagementForm : Form
     {
-        DBMain daaa = new DBMain();
+        Database daaa = new Database();
         string _sessionID = SessionManager.SessionID;
         private BLMenu blMenu;
         public Menu_ManagementForm()
@@ -92,7 +92,7 @@ namespace DBMS_FinalProject_NHOM03
             {
                 DataSet success = blMenu.RemoveFoodInMenu(txtMenuID.Text);
 
-                if (success!=null)
+                if (success != null)
                 {
                     MessageBox.Show("Deleting Successfully!", "Attention", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     GetMenuManagement();
@@ -107,10 +107,6 @@ namespace DBMS_FinalProject_NHOM03
         private void btnRefresh_Click(object sender, EventArgs e)
         {
             GetMenuManagement();
-        }
-        private void pc_exit_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
         }
         private void dgvMenu_CellClick(object sender, DataGridViewCellEventArgs e)
         {
@@ -133,6 +129,11 @@ namespace DBMS_FinalProject_NHOM03
                     txtFoodID.Clear();
                 }
             }
+        }
+
+        private void closeButton_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

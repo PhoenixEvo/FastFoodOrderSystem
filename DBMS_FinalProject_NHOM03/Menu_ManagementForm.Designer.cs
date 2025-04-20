@@ -50,10 +50,9 @@
             txtPrice = new System.Windows.Forms.TextBox();
             txtMenuID = new System.Windows.Forms.TextBox();
             dgvMenu = new System.Windows.Forms.DataGridView();
-            pc_exit = new System.Windows.Forms.PictureBox();
+            closeButton = new System.Windows.Forms.Panel();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dgvMenu).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)pc_exit).BeginInit();
             SuspendLayout();
             // 
             // panel1
@@ -288,25 +287,26 @@
             dgvMenu.TabIndex = 0;
             dgvMenu.CellClick += dgvMenu_CellClick;
             // 
-            // pc_exit
+            // closeButton
             // 
-            pc_exit.Cursor = System.Windows.Forms.Cursors.Hand;
-            pc_exit.Image = (System.Drawing.Image)resources.GetObject("pc_exit.Image");
-            pc_exit.Location = new System.Drawing.Point(793, -1);
-            pc_exit.Name = "pc_exit";
-            pc_exit.Size = new System.Drawing.Size(20, 20);
-            pc_exit.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            pc_exit.TabIndex = 3;
-            pc_exit.TabStop = false;
-            pc_exit.Click += pc_exit_Click;
+            closeButton.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right;
+            closeButton.BackColor = System.Drawing.Color.OrangeRed;
+            closeButton.BackgroundImage = (System.Drawing.Image)resources.GetObject("closeButton.BackgroundImage");
+            closeButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            closeButton.Location = new System.Drawing.Point(794, -1);
+            closeButton.Margin = new System.Windows.Forms.Padding(2);
+            closeButton.Name = "closeButton";
+            closeButton.Size = new System.Drawing.Size(20, 20);
+            closeButton.TabIndex = 39;
+            closeButton.Click += closeButton_Click;
             // 
             // Menu_ManagementForm
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             BackColor = System.Drawing.Color.Navy;
-            ClientSize = new System.Drawing.Size(814, 584);
-            Controls.Add(pc_exit);
+            ClientSize = new System.Drawing.Size(813, 584);
+            Controls.Add(closeButton);
             Controls.Add(panel1);
             FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             Name = "Menu_ManagementForm";
@@ -315,7 +315,6 @@
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)dgvMenu).EndInit();
-            ((System.ComponentModel.ISupportInitialize)pc_exit).EndInit();
             ResumeLayout(false);
         }
 
@@ -342,6 +341,6 @@
         private System.Windows.Forms.TextBox txtPrice;
         private System.Windows.Forms.TextBox txtMenuID;
         private System.Windows.Forms.DataGridView dgvMenu;
-        private System.Windows.Forms.PictureBox pc_exit;
+        private System.Windows.Forms.Panel closeButton;
     }
 }

@@ -2,16 +2,34 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
+    <Compile Update="CartCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="ComboManagement.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Forms\CartForCustomer.cs">
+    <Compile Update="frmCheckOut.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Forms\MainForm.cs">
+    <Compile Update="frmInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTrackingOrderStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Menu_ManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrderManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RevenueForm.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

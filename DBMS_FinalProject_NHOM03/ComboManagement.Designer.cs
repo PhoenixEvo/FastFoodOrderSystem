@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Combo_Management));
-            pc_exit = new System.Windows.Forms.PictureBox();
             panel1 = new System.Windows.Forms.Panel();
             label2 = new System.Windows.Forms.Label();
             txtcbname = new System.Windows.Forms.TextBox();
@@ -50,23 +49,11 @@
             txtQuantity = new System.Windows.Forms.TextBox();
             txtPrice = new System.Windows.Forms.TextBox();
             dgvCombo = new System.Windows.Forms.DataGridView();
-            ((System.ComponentModel.ISupportInitialize)pc_exit).BeginInit();
+            closeButton = new System.Windows.Forms.Panel();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dgvComboItem).BeginInit();
             ((System.ComponentModel.ISupportInitialize)dgvCombo).BeginInit();
             SuspendLayout();
-            // 
-            // pc_exit
-            // 
-            pc_exit.Cursor = System.Windows.Forms.Cursors.Hand;
-            pc_exit.Image = (System.Drawing.Image)resources.GetObject("pc_exit.Image");
-            pc_exit.Location = new System.Drawing.Point(809, -1);
-            pc_exit.Name = "pc_exit";
-            pc_exit.Size = new System.Drawing.Size(20, 20);
-            pc_exit.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            pc_exit.TabIndex = 4;
-            pc_exit.TabStop = false;
-            pc_exit.Click += pc_exit_Click;
             // 
             // panel1
             // 
@@ -298,19 +285,31 @@
             dgvCombo.TabIndex = 0;
             dgvCombo.CellClick += dgvCombo_CellClick;
             // 
+            // closeButton
+            // 
+            closeButton.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right;
+            closeButton.BackColor = System.Drawing.Color.OrangeRed;
+            closeButton.BackgroundImage = (System.Drawing.Image)resources.GetObject("closeButton.BackgroundImage");
+            closeButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            closeButton.Location = new System.Drawing.Point(809, -1);
+            closeButton.Margin = new System.Windows.Forms.Padding(2);
+            closeButton.Name = "closeButton";
+            closeButton.Size = new System.Drawing.Size(20, 20);
+            closeButton.TabIndex = 40;
+            closeButton.Click += closeButton_Click;
+            // 
             // Combo_Management
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             BackColor = System.Drawing.Color.Navy;
             ClientSize = new System.Drawing.Size(828, 503);
+            Controls.Add(closeButton);
             Controls.Add(panel1);
-            Controls.Add(pc_exit);
             FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             Name = "Combo_Management";
             StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "Combo_Management";
-            ((System.ComponentModel.ISupportInitialize)pc_exit).EndInit();
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)dgvComboItem).EndInit();
@@ -319,8 +318,6 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.PictureBox pc_exit;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.DataGridView dgvComboItem;
         private System.Windows.Forms.Label label6;
@@ -341,5 +338,6 @@
         private System.Windows.Forms.TextBox txtFoodID;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txtcbname;
+        private System.Windows.Forms.Panel closeButton;
     }
 }

@@ -1,71 +1,170 @@
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.MainForm.resources
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.Properties.Resources.resources
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.csproj.GenerateResource.cache
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.csproj.CoreCompileInputs.cache
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.sourcelink.json
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.exe
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.dll.config
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.deps.json
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.runtimeconfig.json
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.pdb
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\refint\DBMS_FinalProject_NHOM03.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.pdb
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.genruntimeconfig.cache
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\ref\DBMS_FinalProject_NHOM03.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Azure.Core.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Azure.Identity.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.ClientModel.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.Memory.Data.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.csproj.AssemblyReference.cache
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_Fin.E7FC5D9A.Up2Date
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
-C:\Users\HP\OneDrive - hcmute.edu.vn\DBMS\FinalProject\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.DB_Layer.CartForCustomer.resources
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.csproj.AssemblyReference.cache
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.TrackingOrderStatusForm.resources
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.MainForm.resources
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.OrderManagementForm.resources
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.Properties.Resources.resources
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.csproj.GenerateResource.cache
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.GeneratedMSBuildEditorConfig.editorconfig
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.csproj.CoreCompileInputs.cache
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.sourcelink.json
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Resources\minimize.png
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Resources\reject.png
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.exe
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.dll.config
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.deps.json
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.runtimeconfig.json
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.pdb
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_Fin.E7FC5D9A.Up2Date
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\refint\DBMS_FinalProject_NHOM03.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.pdb
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.genruntimeconfig.cache
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\ref\DBMS_FinalProject_NHOM03.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Resources\minimize.png
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Resources\reject.png
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.exe
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.dll.config
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.deps.json
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.runtimeconfig.json
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.pdb
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.csproj.AssemblyReference.cache
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.frmStaffLogin.resources
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.TrackingOrderStatusForm.resources
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.MainForm.resources
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.OrderManagementForm.resources
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.Properties.Resources.resources
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.Test_CaiDatC_TuSQL.resources
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.csproj.GenerateResource.cache
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.csproj.CoreCompileInputs.cache
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.sourcelink.json
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_Fin.E7FC5D9A.Up2Date
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\refint\DBMS_FinalProject_NHOM03.dll
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.pdb
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.genruntimeconfig.cache
+C:\Users\trant\Downloads\DBMS\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\ref\DBMS_FinalProject_NHOM03.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.CartCustomer.resources
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.Combo_Management.resources
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.Menu_ManagementForm.resources
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.frmLogin.resources
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.frmCheckOut.resources
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_FinalProject_NHOM03.frmInventory.resources
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\obj\Debug\net8.0-windows\DBMS_MenuManagement.RevenueForm.resources
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.Web.DataVisualization.Design.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.Web.DataVisualization.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.Windows.Forms.DataVisualization.Design.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.Windows.Forms.DataVisualization.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\FastFoodOrderSystem\DBMS_FinalProject_NHOM03\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
